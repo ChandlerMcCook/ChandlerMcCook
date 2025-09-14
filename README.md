@@ -1,6 +1,6 @@
 ## Hi there! 👋  
 
-I'm Chandler, a senior Computer Science student at MTSU 🎓. I enjoy building software that enhances productivity, improves accessibility, and challenges my problem-solving skills.  
+I'm Chandler, a junior software engineer at Broadcast Music Incorporated. I enjoy building software that enhances productivity, improves accessibility, and challenges my problem-solving skills.  
 
 ### 🚀 Projects I've Worked On  
 
@@ -10,11 +10,7 @@ A Chrome extension designed to help users stay productive by tracking website us
 
 #### [🏆 Faceoff](https://github.com/LKQHackMt/faceoff)  
 **Frontend Developer | January 2025 - February 2025**  
-A HackMT-winning web app that uses machine learning to track facial movements and emotions via webcam.  
-
-#### [♟️ Amazons](https://github.com/ChandlerMcCook/AmazonsJava)  
-**Lead Developer | October 2024 - December 2024**  
-An implementation of the "Game of the Amazons" board game in Java using JavaFX.  
+A HackMT-winning web app that uses machine learning to track facial movements and emotions via webcam.   
 
 #### [🕶️ Career Interview Readiness in Virtual Reality (CIRVR)](https://lab.vanderbilt.edu/rasl/research/virtual-reality-for-autism/)  
 **Backend Developer | February 2024 - August 2024**  
